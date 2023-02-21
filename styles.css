@@ -1,0 +1,44 @@
+.header-class {
+  background-color: rgb(0, 25, 255);
+  color: #000000;
+  padding: 10px;
+  text-align: center;
+}
+
+.h1-class {
+  background-color: salmon;
+  font-size: 50px;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.nav-class {
+  background-color: rgb(250, 25, 255);
+  color: #000000;
+  padding: 10px;
+  text-align: center;
+}
+
+.ul-class {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  list-style-type: none;
+  background-color: rgb(255, 242, 0);
+  color: #000000;
+  padding: 10px;
+}
+
+.img-class {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  list-style-type: none;
+  background-color: rgb(255, 242, 0);
+  color: #000000;
+  padding: 10px;
+  
+}
